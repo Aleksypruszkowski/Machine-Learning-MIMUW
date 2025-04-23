@@ -5,3 +5,4 @@
 4. Lab04: NA
 5. Lab05: https://colab.research.google.com/github/Aleksypruszkowski/Machine-Learning-MIMUW/blob/main/Lab05.ipynb
 6. Lab06: https://colab.research.google.com/github/Aleksypruszkowski/Machine-Learning-MIMUW/blob/main/Lab06.ipynb
+7. Lab07: https://colab.research.google.com/github/Aleksypruszkowski/Machine-Learning-MIMUW/blob/main/Lab07.ipynb
